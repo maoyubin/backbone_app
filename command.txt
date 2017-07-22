@@ -1,1 +1,6 @@
 npm install -g bower
+
+mongod --dbpath="D:\mongodb\data\db"
+
+npm init
+npm install --save express
