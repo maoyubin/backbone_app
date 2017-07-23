@@ -4,3 +4,7 @@ mongod --dbpath="D:\mongodb\data\db"
 
 npm init
 npm install --save express
+
+npm install --save mongoose
+
+npm install --save body-parser
