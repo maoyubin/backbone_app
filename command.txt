@@ -1,3 +1,5 @@
+git config --global http.sslVerify "false"
+
 npm install -g bower
 
 mongod --dbpath="D:\mongodb\data\db"
