@@ -13,6 +13,7 @@ npm install --save body-parser
 
 node server
 
+npm install jshint gulp-jshint gulp-sass gulp-concat gulp-uglify gulp-rename --save-dev
 
 
 
@@ -20,3 +21,6 @@ node server
 npm install -g express
 cd [local path]/project
 npm link express
+
+
+bower init
