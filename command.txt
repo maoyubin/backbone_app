@@ -12,3 +12,11 @@ npm install --save mongoose
 npm install --save body-parser
 
 node server
+
+
+
+
+#others 
+npm install -g express
+cd [local path]/project
+npm link express
